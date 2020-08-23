@@ -1,10 +1,10 @@
 {
   "name": "workspace-b",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.5.1",
-    "workspace-a": "^1.0.0"
+    "workspace-a": "^1.0.1"
   },
   "gitHead": "892fce424ba707751b59547dfc0f081f847a555a"
 }
