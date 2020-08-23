@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-  	"jquery": "^3.5.1",
-    "workspace-a": "1.0.0"
+    "jquery": "^3.5.1",
+    "workspace-a": "^1.0.0"
   }
 }
