@@ -2,9 +2,12 @@
   "name": "workspace-a",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
   "dependencies": {
     "jquery": "^3.5.1",
     "lodash": "^4.17.20"
-  }
+  },
+  "repository": {
+    "url": "https://registry.npmjs.org/"
+  },
+  "gitHead": "892fce424ba707751b59547dfc0f081f847a555a"
 }
